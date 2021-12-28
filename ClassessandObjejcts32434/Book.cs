@@ -4,8 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ClassessandObjejcts32434
-{
+
+
+//namespace ClassessandObjejcts32434
+//{
+
+
     internal class Book
     {
         public string title;
@@ -14,4 +18,6 @@ namespace ClassessandObjejcts32434
 
             
     }
-}
+
+
+//}

@@ -6,3 +6,5 @@ book1.pages = 400;
 Console.WriteLine(book1.title);
 
 
+Console.ReadLine();
+
